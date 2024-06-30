@@ -1,3 +1,5 @@
 .venv
 yalefaces
 lbph_classifier.yml
+shape_predictor_68_face_landmarks.dat
+people2.jpg
