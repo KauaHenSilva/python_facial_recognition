@@ -3,3 +3,4 @@ yalefaces
 lbph_classifier.yml
 shape_predictor_68_face_landmarks.dat
 people2.jpg
+dlib_face_recognition_resnet_model_v1.dat

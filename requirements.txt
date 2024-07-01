@@ -1,4 +1,6 @@
 asttokens==2.4.1
+certifi==2024.6.2
+charset-normalizer==3.3.2
 comm==0.2.2
 contourpy==1.2.1
 cycler==0.12.1
@@ -8,6 +10,7 @@ dlib==19.24.4
 exceptiongroup==1.2.1
 executing==2.0.1
 fonttools==4.53.0
+idna==3.7
 ipykernel==6.29.4
 ipython==8.26.0
 jedi==0.19.1
@@ -36,6 +39,7 @@ pyparsing==3.1.2
 python-dateutil==2.9.0.post0
 pytz==2024.1
 pyzmq==26.0.3
+requests==2.32.3
 scikit-learn==1.5.0
 scipy==1.14.0
 seaborn==0.13.2
@@ -46,4 +50,5 @@ tornado==6.4.1
 traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2024.1
+urllib3==2.2.2
 wcwidth==0.2.13
